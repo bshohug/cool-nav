@@ -46,11 +46,11 @@ nav{
 }
 
 .burger div{
-width: 25px;
-height: 3px;
-background-color: white;
-margin: 5px;
-transition: all 0.3s ease;
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 5px;
+    transition: all 0.3s ease;
 }
 
 @media screen and (max-width:1024px){
